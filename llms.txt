@@ -1,0 +1,43 @@
+# Sondajespt — Coquimbo
+
+> Geotechnical engineering services in Coquimbo, Chile.
+
+## Services
+- [Aislacion Sismica](https://coquimbo.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://coquimbo.sondajespt.com/anclajes/)
+- [Calicatas Exploratorias](https://coquimbo.sondajespt.com/calicatas-exploratorias/)
+- [Cbr Vial](https://coquimbo.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://coquimbo.sondajespt.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://coquimbo.sondajespt.com/cimentaciones-superficiales/)
+- [Columnas Grava](https://coquimbo.sondajespt.com/columnas-grava/)
+- [Densidad Cono Arena](https://coquimbo.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://coquimbo.sondajespt.com/ensayo-cpt/)
+- [Estabilidad Taludes](https://coquimbo.sondajespt.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://coquimbo.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://coquimbo.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://coquimbo.sondajespt.com/exploracion/)
+- [Geofisica](https://coquimbo.sondajespt.com/geofisica/)
+- [Geotecnia Vial](https://coquimbo.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://coquimbo.sondajespt.com/granulometria/)
+- [Grouting](https://coquimbo.sondajespt.com/grouting/)
+- [Laboratorio In Situ](https://coquimbo.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://coquimbo.sondajespt.com/laboratorio-lab/)
+- [Limites Atterberg](https://coquimbo.sondajespt.com/limites-atterberg/)
+- [Masw Vs30](https://coquimbo.sondajespt.com/masw-vs30/)
+- [Mejoramiento](https://coquimbo.sondajespt.com/mejoramiento/)
+- [Monitoreo Excavaciones](https://coquimbo.sondajespt.com/monitoreo-excavaciones/)
+- [Pavimento Flexible](https://coquimbo.sondajespt.com/pavimento-flexible/)
+- [Placa De Carga](https://coquimbo.sondajespt.com/placa-de-carga/)
+- [Resistividad Electrica Sev](https://coquimbo.sondajespt.com/resistividad-electrica-sev/)
+- [Sismica](https://coquimbo.sondajespt.com/sismica/)
+- [Sondaje Spt](https://coquimbo.sondajespt.com/sondaje-spt/)
+- [Taludes](https://coquimbo.sondajespt.com/taludes/)
+- [Tomografia Sismica](https://coquimbo.sondajespt.com/tomografia-sismica/)
+- [Vibrocompactacion](https://coquimbo.sondajespt.com/vibrocompactacion/)
+
+## Contact
+- Website: https://coquimbo.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Coquimbo, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
